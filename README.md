@@ -2,8 +2,15 @@
 
 Name: Rafi
 
-## Description
-This project demonstrates basic Git and GitHub operations including commits, branching, and merging.
+# Project Description
+
+This project is created as part of a Git & GitHub assignment.
+
+It demonstrates:
+- Repository creation
+- Local Git usage
+- Branching and merging
+- Multiple commits
 
 # Git Practice Project
 
